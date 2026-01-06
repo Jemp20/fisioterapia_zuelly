@@ -122,6 +122,11 @@ footer {
   gap: 2rem;
 }
 
+.sobre-mi h2 {
+  text-align: center;
+}
+
+
 .foto-perfil {
   width: 200px;
   border-radius: 8px;
