@@ -326,3 +326,27 @@ nav a {
 }
 
 
+@media (max-width: 768px) {
+  .producto .btn {
+    width: 100%;              
+    max-width: 100%;          
+    padding: 12px;            
+    font-size: 1rem;         
+    margin: 15px auto 0;      
+    display: block;          
+    box-sizing: border-box;   
+  }
+
+  .producto {
+    padding: 15px;            
+    margin-bottom: 20px;      
+  }
+
+  .catalogo {
+    grid-template-columns: 1fr;
+    padding: 0 10px;            
+  }
+}
+
+
+
