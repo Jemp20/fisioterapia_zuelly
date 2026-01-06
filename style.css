@@ -302,4 +302,27 @@ nav a {
   }
 }
 
+/* --- Ajuste para móviles --- */
+@media (max-width: 768px) {
+  .producto {
+    padding: 15px;
+  }
+
+  .producto .btn {
+    width: 100%;
+    max-width: 250px;
+    margin: 10px auto 0;
+    display: block;
+    font-size: 1rem;
+  }
+
+  .catalogo {
+    grid-template-columns: 1fr; /* productos uno debajo del otro */
+  }
+
+  .producto img {
+    max-height: 200px;
+  }
+}
+
 
