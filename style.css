@@ -105,6 +105,13 @@ footer {
   margin-top: 20px;
 }
 
+.section h2 {
+  text-align: center;
+  font-size: 2em;
+  color: #1a3d6f;
+  margin-bottom: 30px;
+}
+
 .galeria img {
   width: 100%;
   border-radius: 8px;
