@@ -125,9 +125,10 @@ footer {
 
 .sobre-mi .perfil {
   display: flex;
-  align-items: flex-start;
-  gap: 2rem;
-}
+  justify-content: center;   
+  align-items: center;       
+  text-align: left;    
+  }      
 
 .sobre-mi h2 {
   text-align: center;
