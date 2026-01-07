@@ -382,4 +382,40 @@ nav a {
   z-index: 2;
 }
 
+#portafolio {
+  text-align: center;
+  padding: 40px 20px;
+  background: white;
+  border-radius: 8px;
+  max-width: 940px;
+  margin: 40px auto;
+}
+
+#portafolio h2 {
+  font-size: 2em;
+  color: #1a3d6f;
+  margin-bottom: 20px;
+}
+
+#portafolio p {
+  font-size: 1.1em;
+  margin-bottom: 20px;
+  color: #333;
+}
+
+#portafolio .btn {
+  background-color: #4ba2d8;
+  color: white;
+  padding: 12px 25px;
+  text-decoration: none;
+  border-radius: 5px;
+  font-weight: bold;
+  display: inline-block;
+  transition: background-color 0.3s ease;
+}
+
+#portafolio .btn:hover {
+  background-color: #388e3c;
+}
+
 
